@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SPXML-INLINE-FORM CODE-LIB="1">
+<component_startup_cache>
+        <component_base_path TYPE="string" NOT-NULL="1" DEFAULT="x-local://components/component_startup_cache"/>
+</component_startup_cache>
+</SPXML-INLINE-FORM>

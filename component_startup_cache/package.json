@@ -1,0 +1,8 @@
+{
+  "name": "component_startup_cache",
+  "version": "1.0.0.0",
+  "description": "component_startup_cache",
+  "enableByDefault": true,
+  "dependencies": {},
+  "type": "standard"
+}
